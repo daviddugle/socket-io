@@ -114,7 +114,7 @@ in terminal
 
 ## Photos
 
-![DeployedPhoto](https://github.com/daviddugle/socket/blob/main/public/images/socketGif.gif?raw=true)
+![DeployedPhoto](https://github.com/daviddugle/socket-io/blob/main/public/New%20folder/socketGif.gif?raw=true)
 
 
 
