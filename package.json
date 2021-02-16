@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daviddugle/socket.git"
+    "url": "git+https://github.com/daviddugle/socket-io.git"
   },
   "author": "David Dugle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/daviddugle/socket/issues"
+    "url": "https://github.com/daviddugle/socket-io/issues"
   },
-  "homepage": "https://github.com/daviddugle/socket#readme",
+  "homepage": "https://git.heroku.com/damp-basin-64426.git",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.29.1",
